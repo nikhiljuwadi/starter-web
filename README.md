@@ -7,7 +7,7 @@ testing how to use git and git hub
 example to show different parts of the git repository and various commands using a web praject.
 
 ## Purpose
-
+ giving example
 ## deployment
-
+trying to expand
 ##How to contribute
